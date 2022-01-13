@@ -1,0 +1,1 @@
+scrapy runspider spider.py -o file.csv -t csv
